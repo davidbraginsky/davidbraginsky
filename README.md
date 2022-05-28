@@ -13,4 +13,6 @@ I am a frontend developer currently studying at GeekBrains University.
 ![bem](https://img.shields.io/badge/bem-090909?style=for-the-badge&logo=bem)
 ![Git](https://img.shields.io/badge/git-090909?style=for-the-badge&logo=git)
 ![Testing Library](https://img.shields.io/badge/testing_library-090909?style=for-the-badge&logo=testinglibrary)
+![ESLint](https://img.shields.io/badge/eslint-090909?style=for-the-badge&logo=eslint)
+![Prettier](https://img.shields.io/badge/prettier-090909?style=for-the-badge&logo=prettier)
 

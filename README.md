@@ -2,7 +2,7 @@
 
 Hi there 👋
 
-I am a frontend developer currently working at Gridnine Systems. 
+I am a frontend developer currently working at Gelarm. 
 
 ## Languages & Tools
 
